@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "name":"Mutton Briyani's",
+        "price":150,
+        "image":"b1.png"
+    },
+    {
+        "id":2,
+        "name":"Quail  Briyani's",
+        "price":120,
+        "image":"b2.png"
+    },
+    {
+        "id":3,
+        "name":"Chicken Briyani's",
+        "price":100,
+        "image":"b3.png"
+    },
+    {
+        "id":4,
+        "name":"Chicken Gravi's",
+        "price":80,
+        "image":"g1.png"
+    },
+    {
+        "id":5,
+        "name":"Chilli Chicken",
+        "price":80,
+        "image":"c1.png"
+    },
+    {
+        "id":6,
+        "name":"Mutton Gravi's",
+        "price":100,
+        "image":"g2.png"
+    },
+    {
+        "id":7,
+        "name":"Egg Pizza",
+        "price":250,
+        "image":"p1.png"
+    },
+    {
+        "id":8,
+        "name":"Veg Pizza",
+        "price":200,
+        "image":"p2.png"
+     },
+    {
+        "id":9,
+        "name":"Chicken Noodles",
+        "price":120,
+        "image":"n1.png"
+    },
+    {
+        "id":10,
+        "name":"Salad's Burger",
+        "price":150,
+        "image":"bgr1.png"
+    },
+    {
+        "id":11,
+        "name":"Grilled Chicken's",
+        "price":300,
+        "image":"gc.png"
+    },
+    {
+        "id":12,
+        "name":"Veg Pulaav",
+        "price":100,
+        "image":"vp.png"
+    }
+    
+    
+]
